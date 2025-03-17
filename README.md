@@ -15,4 +15,13 @@
 - Use the remember composable to store objects in a Composition to memory.
   
 - Refresh the UI with the mutableStateOf()function to make an observable.
+  
+## 2. Add a scrollable list Affirmation App
 
+- Use Card composables to create list items.
+  
+- Modify the UI contained within a Card composable.
+  
+- Create a scrollable list using the LazyColumn composable.
+  
+- Build a list using custom list items.
